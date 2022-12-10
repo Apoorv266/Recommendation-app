@@ -12,4 +12,4 @@ Trending Game Recommender 💻
 
   # Live Project
 
-  [LIVE URL](Link)
+  [LIVE URL](https://recommendation-app-neog.netlify.app/)
